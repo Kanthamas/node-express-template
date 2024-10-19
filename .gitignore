@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Test coverage
+coverage/
+
+# Jest test results
+jest-test-results.json
+
+# Docker files
+**/Dockerfile
+**/docker-compose.yml
+
+# Swagger generated files
+swagger-ui/
+
+# Mac system files
+.DS_Store
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
